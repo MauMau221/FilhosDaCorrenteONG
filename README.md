@@ -10,3 +10,12 @@ O site foi desenvolvido para facilitar a comunicação entre a ONG e seus apoiad
 
 Sinta-se à vontade para contribuir com melhorias! Toda ajuda é bem-vinda para tornar este projeto ainda mais impactante, seja com uma doação real para a ONG ou um feedback.
 
+
+Site criado em grupo no primeiro semestre de Sistemas para Internet.
+
+Integrantes envolvidos no projeto
+-- https://github.com/MauMau221
+
+-- https://github.com/RicardioHemmel
+
+-- https://github.com/Rafa-Hemmel
