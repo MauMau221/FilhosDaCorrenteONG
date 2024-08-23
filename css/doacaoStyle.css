@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --titulo: 'Bebas Neue';
+}
+
+/*padronização*/
+
+.titles-style {
+    font-size: clamp(2em, 2em + 1vw, 3em);
+    font-family: var(--titulo);
+    letter-spacing: 0.1em;
+    color: black;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #ebe1b5;   
+}
+
+a {
+    color: #0c588b;
+    cursor: pointer;
+  }
+
+/*nav*/
+
+#container-header {
+    position: fixed;
+    background-color: rgb(0, 0, 0);
+    padding-left: 1%;
+    z-index: 1;
+}
+
+.container-space-nav-corretion {
+    top: 0;
+    height: 85px;
+    width: 100%;
+}
+
+#logo-header {
+    height: 80px;
+    width: 230px;
+    margin-top: 3px;
+}
+
+#donate-background {
+    width: 100%;
+    height: 47vh;
+}
+
+#donate-background img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.donate-container-card {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 4% 0%;
+    font-size: 1.2em;
+}
+
+.card {
+    width: 40vw;
+    background-color: #FFD557;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 3em;
+  }
+
+  .card h2{
+    text-align: center;
+  }
+  
+  .invoice-donate-text {
+    line-height: 1.5em; 
+  }
+
+.invoice-donate-text > p ~ h3, p {
+    margin-top: 2%;
+  }
+
+#invoice-donate-list li {
+    list-style: none;
+    margin-bottom: 1rem;
+  }
+
+  .volunteer-work-text {
+    line-height: 1.9em;
+  }
+
+/*Area pix*/
+
+#pix-section {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5%;
+}
+
+#pix-container{
+    width: 30%;
+    height: 40%;
+    border-radius: 20px;
+    background-color: #FFD557;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2.5em;
+    font-size: 1.2rem;
+}
+
+#pix-container h2{
+    text-align: center;
+}
+
+#pix-container p:nth-child(even) {
+    margin-bottom: 1.5rem;
+}
+
+.qrcode{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.qrcode img{
+    width: 40%;
+    border-radius: 30px;
+}
+
+/*footer*/
+
+.background-footer-color {
+    background-color: #232323;
+}
+
+footer {
+    color: rgb(221, 221, 221);
+}
+
+#container-footer {
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#container-footer h3 {
+    margin-bottom: 4px;
+}
+
+#container-footer p {
+    font-weight: 600;
+}
+
+#corretion-spacement-tel-footer {
+    margin: 5% 0%;
+}
+
+.img-and-title-footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.icons-footer-resize {
+    width: 17px;
+    height: 15px;
+    margin: 3px 8px 0px 0px;
+}
+
+.partnership-logo-resize {
+    height: 90px;
+    width: 185px;
+}
+
+#easter-egg {
+    cursor: auto;
+}
+
+#corretion-spacement-adress-footer {
+    line-height: 1.4;
+}
+
+#sub-footer {
+    width: 100%;
+    padding: 1% 0%;
+    display: flex;
+    justify-content: center;
+}
