@@ -23,11 +23,17 @@ Os commits de origem do projeto está presente em meu perfil em organizações(P
 
 Aqui está algumas partes do nosso site estático... 
 ![Filhos1](https://github.com/user-attachments/assets/d6e4303c-4b91-48a3-92ac-22f4275495b4)
+
 ![Filhos2](https://github.com/user-attachments/assets/8c5e7ac8-1724-489f-a328-e05cd1c29733)
+
 ![Filhos3](https://github.com/user-attachments/assets/2d8139af-2810-43bf-8f54-78a1f70340d5)
+
 ![Filhos4](https://github.com/user-attachments/assets/06c179f1-d56b-4c23-9188-c679737da3c3)
+
 ![Filhos5](https://github.com/user-attachments/assets/22de6d72-e157-4535-a75d-6efbb2206d57)
+
 ![Filhos6](https://github.com/user-attachments/assets/71c9f13a-3563-4cf5-b11c-54f960ac39aa)
+
 
 
 
