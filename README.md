@@ -4,36 +4,85 @@ Projeto Solidário - Construindo um Futuro Melhor Juntos.
 
 --   https://helpingorganization.github.io/filhosDaCorrente/  ---
 
-Este repositório contém o código-fonte do site oficial de uma ONG beneficente (ASSOCIAÇÃO CULTURAL FILHOS DA CORRENTE) dedicada a transformar vidas e oferecer apoio a comunidades carentes. Nosso objetivo é criar uma plataforma acessível e intuitiva que permita à ONG expandir seu impacto e alcançar e ajudar ainda mais pessoas em necessidade.
+# 🤝 Projeto Solidário – Construindo um Futuro Melhor Juntos
 
-O site foi desenvolvido para facilitar a comunicação entre a ONG e seus apoiadores, permitindo a divulgação de projetos, campanhas de doação, eventos beneficentes e histórias de sucesso. Com um design moderno e impactante.
+🔗 **Site do projeto:** [https://helpingorganization.github.io/filhosDaCorrente/](https://helpingorganization.github.io/filhosDaCorrente/)
 
-Sinta-se à vontade para contribuir com melhorias! Toda ajuda é bem-vinda para tornar este projeto ainda mais impactante, seja com uma doação real para a ONG ou um feedback.
+Este repositório contém o código-fonte do site oficial da **ASSOCIAÇÃO CULTURAL FILHOS DA CORRENTE**, uma ONG beneficente dedicada a transformar vidas e oferecer apoio a comunidades em situação de vulnerabilidade.
 
-Integrantes envolvidos no projeto
+O projeto foi desenvolvido durante o **primeiro semestre da faculdade**, com foco em aplicar os conhecimentos iniciais de **desenvolvimento web** em um projeto real, com impacto social positivo.
 
--- https://github.com/MauMau221
+---
 
--- https://github.com/RicardioHemmel
+## 🎯 Objetivo do Projeto
 
--- https://github.com/Rafa-Hemmel
+O principal objetivo deste projeto foi criar uma **plataforma acessível, intuitiva e informativa**, permitindo que a ONG:
 
-Inciamos o projeto dia 04/04/2023.
-Os commits de origem do projeto está presente em meu perfil em organizações(Projeto Filhos da Corrente). 
+* Divulgue seus projetos sociais
+* Apresente campanhas de doação
+* Promova eventos beneficentes
+* Compartilhe histórias de sucesso e impacto social
+* Fortaleça a comunicação com apoiadores e voluntários
 
-Aqui está algumas partes do nosso site estático... 
-![Filhos1](https://github.com/user-attachments/assets/d6e4303c-4b91-48a3-92ac-22f4275495b4)
+Tudo isso por meio de um **site estático**, simples, eficiente e fácil de navegar.
 
-![Filhos2](https://github.com/user-attachments/assets/8c5e7ac8-1724-489f-a328-e05cd1c29733)
+---
 
-![Filhos3](https://github.com/user-attachments/assets/2d8139af-2810-43bf-8f54-78a1f70340d5)
+## 🌐 Sobre o Site
 
-![Filhos4](https://github.com/user-attachments/assets/06c179f1-d56b-4c23-9188-c679737da3c3)
+O site foi desenvolvido com um **design moderno e impactante**, pensado para transmitir confiança, empatia e engajamento. Ele serve como um canal direto entre a ONG e a comunidade, ampliando sua visibilidade e alcance digital.
 
-![Filhos5](https://github.com/user-attachments/assets/22de6d72-e157-4535-a75d-6efbb2206d57)
+Principais características:
 
-![Filhos6](https://github.com/user-attachments/assets/71c9f13a-3563-4cf5-b11c-54f960ac39aa)
+* Layout minimamente responsivo
+* Navegação intuitiva
+* Conteúdo institucional claro e objetivo
+* Foco em acessibilidade e usabilidade
 
+---
 
+## 🛠️ Tecnologias Utilizadas
 
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Git & GitHub**
+* **GitHub Pages** (deploy do site)
 
+---
+
+## 👥 Integrantes do Projeto
+
+* **Maurico de Araujo**
+  GitHub: [https://github.com/MauMau221](https://github.com/MauMau221)
+
+* **Ricardo Hemmel**
+  GitHub: [https://github.com/RicardioHemmel](https://github.com/RicardioHemmel)
+
+* **Rafala Hemmel**
+  GitHub: [https://github.com/Rafa-Hemmel](https://github.com/Rafa-Hemmel)
+
+---
+
+## 📅 Histórico do Projeto
+
+* 📌 **Início do projeto:** 04/04/2023
+* Os commits iniciais do projeto encontram-se no perfil do autor, dentro da organização **Projeto Filhos da Corrente**.
+
+---
+
+## 🤲 Contribuições
+
+Contribuições são sempre bem-vindas! Você pode ajudar de diversas formas:
+
+* Sugerindo melhorias no design ou conteúdo
+* Reportando problemas
+* Contribuindo com código
+* Compartilhando o projeto
+* Ou até mesmo realizando uma **doação real para a ONG** 💙
+
+Toda colaboração ajuda a tornar este projeto ainda mais impactante.
+
+---
+
+📚 *Projeto acadêmico desenvolvido para fins educacionais e sociais.*
