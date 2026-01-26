@@ -1,9 +1,3 @@
-﻿# filhosDaCorrente
-
-Projeto Solidário - Construindo um Futuro Melhor Juntos.
-
---   https://helpingorganization.github.io/filhosDaCorrente/  ---
-
 # 🤝 Projeto Solidário – Construindo um Futuro Melhor Juntos
 
 🔗 **Site do projeto:** [https://helpingorganization.github.io/filhosDaCorrente/](https://helpingorganization.github.io/filhosDaCorrente/)
